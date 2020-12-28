@@ -3,6 +3,7 @@
      --primary-color: #60A5FA;
      --off-white: #5793f3;
      --dark-gray: #FCD34D;
+     --secondary-color:none;
 
 }
 
@@ -254,3 +255,14 @@ button {
      display: block;
      padding: 1rem;
 }
+.socicon img{
+     padding: 2px;
+      font-size: 30px;
+      width: 30px;
+      text-align: center;
+      text-decoration: none;
+    }
+    
+    .socicon img:hover{
+        opacity:0.7;
+    }
